@@ -3,6 +3,7 @@ package wood;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello, my name is Darren");
+        System.out.println("Hello, my name is Darren\n");
+        System.out.println("Hello, Darren! My Name is Christopher!");
     }
 }
